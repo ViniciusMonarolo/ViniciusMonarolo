@@ -1,16 +1,13 @@
-### Hi there 👋
+# e aí, caiu de paraquedas aqui foi? 🪂 
 
-<!--
-**ViniciusMonarolo/ViniciusMonarolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## Sobre mim: 
+- nascido em 29/07/2005  🥳 
+- tenho como hobby colecionar cartas pokemon  😎 
+- atualmente cursando programação  🧠 
+- 
