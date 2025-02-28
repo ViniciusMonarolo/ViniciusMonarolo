@@ -14,4 +14,4 @@
 - tenho como hobby colecionar cartas pokemon  😎 
 -  curso de programação na Ctrl+Play :)  🧠 
 - no tempo livre assisto animes e leio mangás
-- Cursando Analise e desenvolvimento de sistemas na Anhamguera Juniaí
+- Cursando Analise e desenvolvimento de sistemas na Anhanguera Juniaí
